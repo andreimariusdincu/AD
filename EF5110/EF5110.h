@@ -15,7 +15,7 @@
 
 #ifndef __EF5110_H__
 #define __EF5110_H__
-#include "WProgram.h"
+#include "Arduino.h"
 #include <avr/pgmspace.h>
 
 class EF_LCM5110
